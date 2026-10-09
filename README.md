@@ -42,7 +42,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sanjay3437&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sanjay3437&theme=darkhub&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -50,7 +50,7 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjay3437&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjay3437&theme=react-dark&hide_border=true" />
 </p>
 
 ---
